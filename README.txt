@@ -11,3 +11,6 @@
 - Approach: Preprocess the image data, apply Decision Tree and SVM to classify, benchmark performance by comparing with classifying image data by Neural Networks
 
 - Progress Report: https://www.overleaf.com/project/6751351ca090bb0d67dfe3e2
+
+- Reference:
+https://arxiv.org/abs/2210.08585
