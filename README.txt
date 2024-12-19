@@ -11,7 +11,7 @@
 - Progress Report: https://www.overleaf.com/project/6751351ca090bb0d67dfe3e2
 
 - Reference:
-https://arxiv.org/pdf/2311.17646 
-https://arxiv.org/abs/2007.08233
-https://arxiv.org/abs/2210.08585
+1. https://arxiv.org/pdf/2311.17646 
+2. https://arxiv.org/abs/2007.08233
+3. https://arxiv.org/abs/2210.08585
 
